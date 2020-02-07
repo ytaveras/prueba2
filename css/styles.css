@@ -1,0 +1,36 @@
+/**************************TAG SELECTOR**********************************/
+body {
+  background-color: #D3D3D3;
+  background-image: url("https://www.itl.cat/pngfile/big/49-497590_programming-python-coding-wallpaper-python-hd.jpg");
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  font-size: 120px;
+}
+
+p, h3, li {
+  color: white;
+}
+
+img:hover {
+  max-height: 400px;
+  max-width: 600px;
+  width: 400px;
+  height: 200px;
+}
+
+/***************************CLASS SELECTOR********************************/
+
+
+/***************************ID SELECTOR************************************/
+#heading {
+  color: orange;
+}
